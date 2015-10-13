@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2015-01-26T14:43:00Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="a3dd3b84b1ccb221d702e6925cc51d6ac1a6eecc" resname="admin_zapoyok_content_page_acl">
+        <source>/admin/zapoyok/content/page/{id}/acl</source>
+        <target state="new">/admin/zapoyok/content/page/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="fd36ac4f28ec808372fa4aad9ac4e713cfee58f8" resname="admin_zapoyok_content_page_batch">
+        <source>/admin/zapoyok/content/page/batch</source>
+        <target state="new">/admin/zapoyok/content/page/batch</target>
+      </trans-unit>
+      <trans-unit id="929a29c3464e394dcc604c558cd1b7ab26fb088c" resname="admin_zapoyok_content_page_create">
+        <source>/admin/zapoyok/content/page/create</source>
+        <target state="new">/admin/zapoyok/content/page/create</target>
+      </trans-unit>
+      <trans-unit id="ea11b1150973910de4217fa5f6938eda8356cb6d" resname="admin_zapoyok_content_page_delete">
+        <source>/admin/zapoyok/content/page/{id}/delete</source>
+        <target state="new">/admin/zapoyok/content/page/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="3b4769c02e197bc9220300c01d10408f30e17aa8" resname="admin_zapoyok_content_page_edit">
+        <source>/admin/zapoyok/content/page/{id}/edit</source>
+        <target state="new">/admin/zapoyok/content/page/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="6b2f9f2d59b42851fe6d357d0ad29b6f8fa5a11d" resname="admin_zapoyok_content_page_export">
+        <source>/admin/zapoyok/content/page/export</source>
+        <target state="new">/admin/zapoyok/content/page/export</target>
+      </trans-unit>
+      <trans-unit id="1e0f187ee3140bcd5b73040ecc66253a3e6c7c00" resname="admin_zapoyok_content_page_list">
+        <source>/admin/zapoyok/content/page/list</source>
+        <target state="new">/admin/zapoyok/content/page/list</target>
+      </trans-unit>
+      <trans-unit id="fd1aec9049e135bfb7e73b844ff091a9d8eb53e9" resname="admin_zapoyok_content_page_show">
+        <source>/admin/zapoyok/content/page/{id}/show</source>
+        <target state="new">/admin/zapoyok/content/page/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="67506272b87246f79ade4c146b134526c73cf10b" resname="admin_zapoyok_menu_menu_acl">
+        <source>/admin/zapoyok/menu/menu/{id}/acl</source>
+        <target state="new">/admin/zapoyok/menu/menu/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="c5f631ced0582c954bc98a0367dd33c2ec3a2cf0" resname="admin_zapoyok_menu_menu_batch">
+        <source>/admin/zapoyok/menu/menu/batch</source>
+        <target state="new">/admin/zapoyok/menu/menu/batch</target>
+      </trans-unit>
+      <trans-unit id="92c9502acc584183886d82263a9a437f85d589f9" resname="admin_zapoyok_menu_menu_create">
+        <source>/admin/zapoyok/menu/menu/create</source>
+        <target state="new">/admin/zapoyok/menu/menu/create</target>
+      </trans-unit>
+      <trans-unit id="06e72d4ec2ee4952ff88311eaae03e3b52583c0a" resname="admin_zapoyok_menu_menu_delete">
+        <source>/admin/zapoyok/menu/menu/{id}/delete</source>
+        <target state="new">/admin/zapoyok/menu/menu/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="8b9e552c8c047a0b101215852bd1eb8f380226bb" resname="admin_zapoyok_menu_menu_edit">
+        <source>/admin/zapoyok/menu/menu/{id}/edit</source>
+        <target state="new">/admin/zapoyok/menu/menu/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="d89871aba1cb28a540083ba41da2dca206d4b868" resname="admin_zapoyok_menu_menu_export">
+        <source>/admin/zapoyok/menu/menu/export</source>
+        <target state="new">/admin/zapoyok/menu/menu/export</target>
+      </trans-unit>
+      <trans-unit id="9de16c5780cf2ebb60a0bbbe0e942e988f08c5be" resname="admin_zapoyok_menu_menu_list">
+        <source>/admin/zapoyok/menu/menu/list</source>
+        <target state="new">/admin/zapoyok/menu/menu/list</target>
+      </trans-unit>
+      <trans-unit id="f9cd41b96796df44a0f490464ace5d18fddedb15" resname="admin_zapoyok_menu_menu_menunode_acl">
+        <source>/admin/zapoyok/menu/menu/{id}/menunode/{childId}/acl</source>
+        <target state="new">/admin/zapoyok/menu/menu/{id}/menunode/{childId}/acl</target>
+      </trans-unit>
+      <trans-unit id="813784803e42f09de89c8216b0633cdeeb77e206" resname="admin_zapoyok_menu_menu_menunode_batch">
+        <source>/admin/zapoyok/menu/menu/{id}/menunode/batch</source>
+        <target state="new">/admin/zapoyok/menu/menu/{id}/menunode/batch</target>
+      </trans-unit>
+      <trans-unit id="74fce49d0da45067537b404fa38d461f707eace7" resname="admin_zapoyok_menu_menu_menunode_create">
+        <source>/admin/zapoyok/menu/menu/{id}/menunode/create</source>
+        <target state="new">/admin/zapoyok/menu/menu/{id}/menunode/create</target>
+      </trans-unit>
+      <trans-unit id="2d7f18eb698a1451e73df9f304ae2cd349ac3b37" resname="admin_zapoyok_menu_menu_menunode_delete">
+        <source>/admin/zapoyok/menu/menu/{id}/menunode/{childId}/delete</source>
+        <target state="new">/admin/zapoyok/menu/menu/{id}/menunode/{childId}/delete</target>
+      </trans-unit>
+      <trans-unit id="c234316c82868399bbb9605e02281683c59c4da4" resname="admin_zapoyok_menu_menu_menunode_edit">
+        <source>/admin/zapoyok/menu/menu/{id}/menunode/{childId}/edit</source>
+        <target state="new">/admin/zapoyok/menu/menu/{id}/menunode/{childId}/edit</target>
+      </trans-unit>
+      <trans-unit id="4b720e1d6c76a774a16f1f41be3b9ebc8a653842" resname="admin_zapoyok_menu_menu_menunode_export">
+        <source>/admin/zapoyok/menu/menu/{id}/menunode/export</source>
+        <target state="new">/admin/zapoyok/menu/menu/{id}/menunode/export</target>
+      </trans-unit>
+      <trans-unit id="eabc85efaf8f146fdae6100c118e4558eb5e8f2b" resname="admin_zapoyok_menu_menu_menunode_list">
+        <source>/admin/zapoyok/menu/menu/{id}/menunode/list</source>
+        <target state="new">/admin/zapoyok/menu/menu/{id}/menunode/list</target>
+      </trans-unit>
+      <trans-unit id="ebcbf709de0edc162e679dcf2dec360c3b2da4f4" resname="admin_zapoyok_menu_menu_menunode_show">
+        <source>/admin/zapoyok/menu/menu/{id}/menunode/{childId}/show</source>
+        <target state="new">/admin/zapoyok/menu/menu/{id}/menunode/{childId}/show</target>
+      </trans-unit>
+      <trans-unit id="a2dca4bdfed561c4fcdf455ea26b18936d9f0765" resname="admin_zapoyok_menu_menu_show">
+        <source>/admin/zapoyok/menu/menu/{id}/show</source>
+        <target state="new">/admin/zapoyok/menu/menu/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="bede64a43d381b9418ad1af627f163c0b8a76f36" resname="admin_zapoyok_menu_menunode_acl">
+        <source>/admin/zapoyok/menu/menunode/{id}/acl</source>
+        <target state="new">/admin/zapoyok/menu/menunode/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="0e81eb119bc0a18940b461cb6c7d5087160f6335" resname="admin_zapoyok_menu_menunode_batch">
+        <source>/admin/zapoyok/menu/menunode/batch</source>
+        <target state="new">/admin/zapoyok/menu/menunode/batch</target>
+      </trans-unit>
+      <trans-unit id="564121a5789ed876fc5f2f5b41274ee17b515405" resname="admin_zapoyok_menu_menunode_create">
+        <source>/admin/zapoyok/menu/menunode/create</source>
+        <target state="new">/admin/zapoyok/menu/menunode/create</target>
+      </trans-unit>
+      <trans-unit id="a2036a129098bc0f829042426498b5904f3fe88f" resname="admin_zapoyok_menu_menunode_delete">
+        <source>/admin/zapoyok/menu/menunode/{id}/delete</source>
+        <target state="new">/admin/zapoyok/menu/menunode/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="f1946cc62ecb1ce46c2dcc4728aaa3c126b02e6b" resname="admin_zapoyok_menu_menunode_edit">
+        <source>/admin/zapoyok/menu/menunode/{id}/edit</source>
+        <target state="new">/admin/zapoyok/menu/menunode/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="385182e242fb6293f1bb14f19b9babdc88e180ac" resname="admin_zapoyok_menu_menunode_export">
+        <source>/admin/zapoyok/menu/menunode/export</source>
+        <target state="new">/admin/zapoyok/menu/menunode/export</target>
+      </trans-unit>
+      <trans-unit id="91ce49ad181f249ca963b9bf2c15b3c6783b4ddb" resname="admin_zapoyok_menu_menunode_list">
+        <source>/admin/zapoyok/menu/menunode/list</source>
+        <target state="new">/admin/zapoyok/menu/menunode/list</target>
+      </trans-unit>
+      <trans-unit id="6103b9adf84c87ec48a0529b8be0facce8b71519" resname="admin_zapoyok_menu_menunode_show">
+        <source>/admin/zapoyok/menu/menunode/{id}/show</source>
+        <target state="new">/admin/zapoyok/menu/menunode/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="3c47a2f6b157a47b9228fbda16ea9f4d5809ecf9" resname="admin_rosport_category_category_acl">
+        <source>/admin/rosport/category/category/{id}/acl</source>
+        <target state="new">/admin/rosport/category/category/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="a3d60bbec5970800c954045881e0c57d8b421630" resname="admin_rosport_category_category_batch">
+        <source>/admin/rosport/category/category/batch</source>
+        <target state="new">/admin/rosport/category/category/batch</target>
+      </trans-unit>
+      <trans-unit id="7fcbd1917ae6ae048a859bf5bbd4fd64def09224" resname="admin_rosport_category_category_create">
+        <source>/admin/rosport/category/category/create</source>
+        <target state="new">/admin/rosport/category/category/create</target>
+      </trans-unit>
+      <trans-unit id="5c10669bc05e6cbb6842c56741fdee6a7f54c17d" resname="admin_rosport_category_category_delete">
+        <source>/admin/rosport/category/category/{id}/delete</source>
+        <target state="new">/admin/rosport/category/category/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="706238064ab3fb246a6fd4e1f9362da6f5382895" resname="admin_rosport_category_category_edit">
+        <source>/admin/rosport/category/category/{id}/edit</source>
+        <target state="new">/admin/rosport/category/category/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="f3b2ca97433b93e756e5e3a7925a85150ff620d4" resname="admin_rosport_category_category_export">
+        <source>/admin/rosport/category/category/export</source>
+        <target state="new">/admin/rosport/category/category/export</target>
+      </trans-unit>
+      <trans-unit id="4236742a8290944773a4abef7a8445f646643590" resname="admin_rosport_category_category_list">
+        <source>/admin/rosport/category/category/list</source>
+        <target state="new">/admin/rosport/category/category/list</target>
+      </trans-unit>
+      <trans-unit id="0d2a85b088363e8dccbf63ba78c13982e2b12516" resname="admin_rosport_category_category_show">
+        <source>/admin/rosport/category/category/{id}/show</source>
+        <target state="new">/admin/rosport/category/category/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="d45842d695d3a244a81c0516bfc6c5f8ad8df61b" resname="admin_rosport_highlight_highlight_acl">
+        <source>/admin/rosport/highlight/highlight/{id}/acl</source>
+        <target state="new">/admin/rosport/highlight/highlight/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="d834c52e7e6ed0a9ea0322c859fa4d634d2d2445" resname="admin_rosport_highlight_highlight_batch">
+        <source>/admin/rosport/highlight/highlight/batch</source>
+        <target state="new">/admin/rosport/highlight/highlight/batch</target>
+      </trans-unit>
+      <trans-unit id="87f0b7eaf740279392eb33ce383b9ccc8a4006e7" resname="admin_rosport_highlight_highlight_create">
+        <source>/admin/rosport/highlight/highlight/create</source>
+        <target state="new">/admin/rosport/highlight/highlight/create</target>
+      </trans-unit>
+      <trans-unit id="55983ee33e35deda688eaae9934307ca57ce5fc9" resname="admin_rosport_highlight_highlight_delete">
+        <source>/admin/rosport/highlight/highlight/{id}/delete</source>
+        <target state="new">/admin/rosport/highlight/highlight/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="1f84d57d71037332b357135e3b4aab52e43e07d0" resname="admin_rosport_highlight_highlight_edit">
+        <source>/admin/rosport/highlight/highlight/{id}/edit</source>
+        <target state="new">/admin/rosport/highlight/highlight/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="08348d8afc96a2e6b9439ab1156091bb9cdbbf6f" resname="admin_rosport_highlight_highlight_export">
+        <source>/admin/rosport/highlight/highlight/export</source>
+        <target state="new">/admin/rosport/highlight/highlight/export</target>
+      </trans-unit>
+      <trans-unit id="d6c2d91f0af3836be15c4585b725110a43577802" resname="admin_rosport_highlight_highlight_list">
+        <source>/admin/rosport/highlight/highlight/list</source>
+        <target state="new">/admin/rosport/highlight/highlight/list</target>
+      </trans-unit>
+      <trans-unit id="8ffbfbf7f2a775ea0a4fd80c357ad8a171e4df48" resname="admin_rosport_highlight_highlight_show">
+        <source>/admin/rosport/highlight/highlight/{id}/show</source>
+        <target state="new">/admin/rosport/highlight/highlight/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="f5e1dacfadd8db00b54f8af2f8f38fb46e37feae" resname="admin_rosport_highlight_highlightmedia_acl">
+        <source>/admin/rosport/highlight/highlightmedia/{id}/acl</source>
+        <target state="new">/admin/rosport/highlight/highlightmedia/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="70302a1e32c44e00d896eca25e07f86ffdffe40c" resname="admin_rosport_highlight_highlightmedia_batch">
+        <source>/admin/rosport/highlight/highlightmedia/batch</source>
+        <target state="new">/admin/rosport/highlight/highlightmedia/batch</target>
+      </trans-unit>
+      <trans-unit id="896483495522f72fb5f5e37bef584d9dba13a42c" resname="admin_rosport_highlight_highlightmedia_create">
+        <source>/admin/rosport/highlight/highlightmedia/create</source>
+        <target state="new">/admin/rosport/highlight/highlightmedia/create</target>
+      </trans-unit>
+      <trans-unit id="675410835c47a2c9a4fbf9882d96027161896970" resname="admin_rosport_highlight_highlightmedia_delete">
+        <source>/admin/rosport/highlight/highlightmedia/{id}/delete</source>
+        <target state="new">/admin/rosport/highlight/highlightmedia/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="7edeb18ca7bf15f1d429fe553de4351ce4093d68" resname="admin_rosport_highlight_highlightmedia_edit">
+        <source>/admin/rosport/highlight/highlightmedia/{id}/edit</source>
+        <target state="new">/admin/rosport/highlight/highlightmedia/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="970946aeaab9ddb25536528fa228d59cd5923ecb" resname="admin_rosport_highlight_highlightmedia_export">
+        <source>/admin/rosport/highlight/highlightmedia/export</source>
+        <target state="new">/admin/rosport/highlight/highlightmedia/export</target>
+      </trans-unit>
+      <trans-unit id="84fb9a5c43e8ea05da2d248abb5b7ad9a875e113" resname="admin_rosport_highlight_highlightmedia_list">
+        <source>/admin/rosport/highlight/highlightmedia/list</source>
+        <target state="new">/admin/rosport/highlight/highlightmedia/list</target>
+      </trans-unit>
+      <trans-unit id="d8abd0ecb84315140033cbee3ed158f28920d96b" resname="admin_rosport_highlight_highlightmedia_show">
+        <source>/admin/rosport/highlight/highlightmedia/{id}/show</source>
+        <target state="new">/admin/rosport/highlight/highlightmedia/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="1d28bd68f4f8831e693535a066804e1ccefc43fd" resname="admin_rosport_post_post_batch">
+        <source>/admin/rosport/post/post/batch</source>
+        <target state="new">/admin/rosport/post/post/batch</target>
+      </trans-unit>
+      <trans-unit id="d16238d5e0deb30daac864d7c0246f96f1a3fc62" resname="admin_rosport_post_post_create">
+        <source>/admin/rosport/post/post/create</source>
+        <target state="new">/admin/rosport/post/post/create</target>
+      </trans-unit>
+      <trans-unit id="e5c03d1f5eff9fcf4589f9764799619c49a9e591" resname="admin_rosport_post_post_delete">
+        <source>/admin/rosport/post/post/{id}/delete</source>
+        <target state="new">/admin/rosport/post/post/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="ee27f98b150f7b8ae18613911fa07f80358351a7" resname="admin_rosport_post_post_edit">
+        <source>/admin/rosport/post/post/{id}/edit</source>
+        <target state="new">/admin/rosport/post/post/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="74c4976afb7a7c1c3ccc38311a8608377fb03b49" resname="admin_rosport_post_post_export">
+        <source>/admin/rosport/post/post/export</source>
+        <target state="new">/admin/rosport/post/post/export</target>
+      </trans-unit>
+      <trans-unit id="9779f4569babedf9a90ebf9f70d2ccfe5e9b7005" resname="admin_rosport_post_post_list">
+        <source>/admin/rosport/post/post/list</source>
+        <target state="new">/admin/rosport/post/post/list</target>
+      </trans-unit>
+      <trans-unit id="01146bdb4fc9efad08efe64b99cb048f2ab4bd3c" resname="admin_rosport_post_post_show">
+        <source>/admin/rosport/post/post/{id}/show</source>
+        <target state="new">/admin/rosport/post/post/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="75c876779b9583306dd5229a0a7398d441430dfc" resname="admin_rosport_post_postmedia_acl">
+        <source>/admin/rosport/post/postmedia/{id}/acl</source>
+        <target state="new">/admin/rosport/post/postmedia/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="454da513d761c8933f79a4fb7e15c6c070c784c4" resname="admin_rosport_post_postmedia_batch">
+        <source>/admin/rosport/post/postmedia/batch</source>
+        <target state="new">/admin/rosport/post/postmedia/batch</target>
+      </trans-unit>
+      <trans-unit id="2a77b72b3c3a3b501f71c01bee40e93fd1506740" resname="admin_rosport_post_postmedia_create">
+        <source>/admin/rosport/post/postmedia/create</source>
+        <target state="new">/admin/rosport/post/postmedia/create</target>
+      </trans-unit>
+      <trans-unit id="cdfc8b984da1a49f0e09896105c2b96034f2e49a" resname="admin_rosport_post_postmedia_delete">
+        <source>/admin/rosport/post/postmedia/{id}/delete</source>
+        <target state="new">/admin/rosport/post/postmedia/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="5dd2164636db61fb7e90f4c9f4acd3470f054718" resname="admin_rosport_post_postmedia_edit">
+        <source>/admin/rosport/post/postmedia/{id}/edit</source>
+        <target state="new">/admin/rosport/post/postmedia/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="73de0873e2342ea83b6455c824add295f81b8579" resname="admin_rosport_post_postmedia_export">
+        <source>/admin/rosport/post/postmedia/export</source>
+        <target state="new">/admin/rosport/post/postmedia/export</target>
+      </trans-unit>
+      <trans-unit id="207c8f2a846944d0ad5f75b3cb0ef1e45779bf3c" resname="admin_rosport_post_postmedia_list">
+        <source>/admin/rosport/post/postmedia/list</source>
+        <target state="new">/admin/rosport/post/postmedia/list</target>
+      </trans-unit>
+      <trans-unit id="fe1b5d681828431c3e3c2a4f4f795b94c5afcfe5" resname="admin_rosport_post_postmedia_show">
+        <source>/admin/rosport/post/postmedia/{id}/show</source>
+        <target state="new">/admin/rosport/post/postmedia/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="5e3e9008d2be7e97024d5cae11b4ce6cbb68591a" resname="admin_rosport_post_thematic_batch">
+        <source>/admin/rosport/post/thematic/batch</source>
+        <target state="new">/admin/rosport/post/thematic/batch</target>
+      </trans-unit>
+      <trans-unit id="e125eb82c189f39f7a9bca039e4d9c9396e6e3bf" resname="admin_rosport_post_thematic_create">
+        <source>/admin/rosport/post/thematic/create</source>
+        <target state="new">/admin/rosport/post/thematic/create</target>
+      </trans-unit>
+      <trans-unit id="736336b4fb1b12316fb2f54e03a4967d9b485ade" resname="admin_rosport_post_thematic_delete">
+        <source>/admin/rosport/post/thematic/{id}/delete</source>
+        <target state="new">/admin/rosport/post/thematic/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="5e5085856e48d77697c2c7d555123c5a84ab64d8" resname="admin_rosport_post_thematic_edit">
+        <source>/admin/rosport/post/thematic/{id}/edit</source>
+        <target state="new">/admin/rosport/post/thematic/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="e794f17a7af250891fd586107793c3f613fd6442" resname="admin_rosport_post_thematic_export">
+        <source>/admin/rosport/post/thematic/export</source>
+        <target state="new">/admin/rosport/post/thematic/export</target>
+      </trans-unit>
+      <trans-unit id="d0f861ccdf930fcabfe24502747eae238eac21d1" resname="admin_rosport_post_thematic_list">
+        <source>/admin/rosport/post/thematic/list</source>
+        <target state="new">/admin/rosport/post/thematic/list</target>
+      </trans-unit>
+      <trans-unit id="df58b6b510102e6087559caec437ba5ebb8f3092" resname="admin_rosport_post_thematic_show">
+        <source>/admin/rosport/post/thematic/{id}/show</source>
+        <target state="new">/admin/rosport/post/thematic/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="87d78b78a0c5b5776ed1952fcdda5232a9c63f1c" resname="admin_rosport_post_thematicpost_acl">
+        <source>/admin/rosport/post/thematicpost/{id}/acl</source>
+        <target state="new">/admin/rosport/post/thematicpost/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="dec1c5f2dfe800a7edf663b107155ae23fca4684" resname="admin_rosport_post_thematicpost_batch">
+        <source>/admin/rosport/post/thematicpost/batch</source>
+        <target state="new">/admin/rosport/post/thematicpost/batch</target>
+      </trans-unit>
+      <trans-unit id="dfc521a4122afeeee437baa0c7e44c958ccf5268" resname="admin_rosport_post_thematicpost_create">
+        <source>/admin/rosport/post/thematicpost/create</source>
+        <target state="new">/admin/rosport/post/thematicpost/create</target>
+      </trans-unit>
+      <trans-unit id="39d042238afda91aea47177422fc431998dfd641" resname="admin_rosport_post_thematicpost_delete">
+        <source>/admin/rosport/post/thematicpost/{id}/delete</source>
+        <target state="new">/admin/rosport/post/thematicpost/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="c04aaeee12a403bfd9d6c3415aec3377ae2a0c4d" resname="admin_rosport_post_thematicpost_edit">
+        <source>/admin/rosport/post/thematicpost/{id}/edit</source>
+        <target state="new">/admin/rosport/post/thematicpost/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="f1d304cedd597ea9c810183f5bf64d612b2b2ed2" resname="admin_rosport_post_thematicpost_export">
+        <source>/admin/rosport/post/thematicpost/export</source>
+        <target state="new">/admin/rosport/post/thematicpost/export</target>
+      </trans-unit>
+      <trans-unit id="7e4a8c3ddd7832c1afbd471f9dce200c2bee0674" resname="admin_rosport_post_thematicpost_list">
+        <source>/admin/rosport/post/thematicpost/list</source>
+        <target state="new">/admin/rosport/post/thematicpost/list</target>
+      </trans-unit>
+      <trans-unit id="290c9df561156e1c43a79be045c4b28b1fe32e5d" resname="admin_rosport_post_thematicpost_show">
+        <source>/admin/rosport/post/thematicpost/{id}/show</source>
+        <target state="new">/admin/rosport/post/thematicpost/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="224fa614ed1e67f5fe8c87742ba8d01578f07ace" resname="admin_rosport_pub_pub_acl">
+        <source>/admin/rosport/pub/pub/{id}/acl</source>
+        <target state="new">/admin/rosport/pub/pub/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="70a6ad8c228fdd347974272c608b0755bcb73747" resname="admin_rosport_pub_pub_batch">
+        <source>/admin/rosport/pub/pub/batch</source>
+        <target state="new">/admin/rosport/pub/pub/batch</target>
+      </trans-unit>
+      <trans-unit id="3604d2ab3b0f4bc46b3d9ddb0e983c799bc5f9ee" resname="admin_rosport_pub_pub_create">
+        <source>/admin/rosport/pub/pub/create</source>
+        <target state="new">/admin/rosport/pub/pub/create</target>
+      </trans-unit>
+      <trans-unit id="e3ac88859ce938a742558e3f99aaf0fbb22a0000" resname="admin_rosport_pub_pub_delete">
+        <source>/admin/rosport/pub/pub/{id}/delete</source>
+        <target state="new">/admin/rosport/pub/pub/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="4501516c590c069397aa3e84e53c581e2ef3725b" resname="admin_rosport_pub_pub_edit">
+        <source>/admin/rosport/pub/pub/{id}/edit</source>
+        <target state="new">/admin/rosport/pub/pub/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="7a658368c12a25eed79c733691d68787a37831e6" resname="admin_rosport_pub_pub_export">
+        <source>/admin/rosport/pub/pub/export</source>
+        <target state="new">/admin/rosport/pub/pub/export</target>
+      </trans-unit>
+      <trans-unit id="05eb6dbcdd37455e9fbe99112c2ab853c46544d2" resname="admin_rosport_pub_pub_list">
+        <source>/admin/rosport/pub/pub/list</source>
+        <target state="new">/admin/rosport/pub/pub/list</target>
+      </trans-unit>
+      <trans-unit id="91c0218fe95c68d2f83d40affbdff928e954b0a0" resname="admin_rosport_pub_pub_show">
+        <source>/admin/rosport/pub/pub/{id}/show</source>
+        <target state="new">/admin/rosport/pub/pub/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="941e55d06038edcd6e9f1abdc732bd61fbb5f359" resname="admin_sonata_classification_category_acl">
+        <source>/admin/sonata/classification/category/{id}/acl</source>
+        <target state="new">/admin/sonata/classification/category/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="b60cd02e734f92f8af860ef681c744b44e0e5180" resname="admin_sonata_classification_category_batch">
+        <source>/admin/sonata/classification/category/batch</source>
+        <target state="new">/admin/sonata/classification/category/batch</target>
+      </trans-unit>
+      <trans-unit id="1f094f2ddbeabe9f22581eba891c6e98d6a4669a" resname="admin_sonata_classification_category_create">
+        <source>/admin/sonata/classification/category/create</source>
+        <target state="new">/admin/sonata/classification/category/create</target>
+      </trans-unit>
+      <trans-unit id="eee34f26d2c67d7802c78a7d0f25b90a16499a79" resname="admin_sonata_classification_category_delete">
+        <source>/admin/sonata/classification/category/{id}/delete</source>
+        <target state="new">/admin/sonata/classification/category/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="f124fb5793f133061f8cdac55d61db8bb6b53bc7" resname="admin_sonata_classification_category_edit">
+        <source>/admin/sonata/classification/category/{id}/edit</source>
+        <target state="new">/admin/sonata/classification/category/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="56859f87aa5b400d5e0a45d0b668f4c1322cf6b2" resname="admin_sonata_classification_category_export">
+        <source>/admin/sonata/classification/category/export</source>
+        <target state="new">/admin/sonata/classification/category/export</target>
+      </trans-unit>
+      <trans-unit id="eb825b3cb7cfdee5d3e2a2df464aacdf5f739a96" resname="admin_sonata_classification_category_list">
+        <source>/admin/sonata/classification/category/list</source>
+        <target state="new">/admin/sonata/classification/category/list</target>
+      </trans-unit>
+      <trans-unit id="4c2d81d90ea767905bf642843481d0750b1f1c5e" resname="admin_sonata_classification_category_show">
+        <source>/admin/sonata/classification/category/{id}/show</source>
+        <target state="new">/admin/sonata/classification/category/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="ecdc9f57cd5e33365621bc5670fae3037e8cc634" resname="admin_sonata_classification_category_tree">
+        <source>/admin/sonata/classification/category/tree</source>
+        <target state="new">/admin/sonata/classification/category/tree</target>
+      </trans-unit>
+      <trans-unit id="7d074da1a1f0ad5d64a36d6c7f3a87b20ddfd1e7" resname="admin_sonata_classification_collection_acl">
+        <source>/admin/sonata/classification/collection/{id}/acl</source>
+        <target state="new">/admin/sonata/classification/collection/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="f31bd4a778ff974d05b0ea2807ba5baa82eef12f" resname="admin_sonata_classification_collection_batch">
+        <source>/admin/sonata/classification/collection/batch</source>
+        <target state="new">/admin/sonata/classification/collection/batch</target>
+      </trans-unit>
+      <trans-unit id="7d7ff1a8dc29c73168550c2dfd500c73eaf85b7b" resname="admin_sonata_classification_collection_create">
+        <source>/admin/sonata/classification/collection/create</source>
+        <target state="new">/admin/sonata/classification/collection/create</target>
+      </trans-unit>
+      <trans-unit id="a3ff4110cf6133c346bf7b8f3891d561abe429d1" resname="admin_sonata_classification_collection_delete">
+        <source>/admin/sonata/classification/collection/{id}/delete</source>
+        <target state="new">/admin/sonata/classification/collection/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="d7aec7baa36e24a08804b22a017baf254bc71cb5" resname="admin_sonata_classification_collection_edit">
+        <source>/admin/sonata/classification/collection/{id}/edit</source>
+        <target state="new">/admin/sonata/classification/collection/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="e5fc40bd382e45855a53d73e32fa29535d444ad7" resname="admin_sonata_classification_collection_export">
+        <source>/admin/sonata/classification/collection/export</source>
+        <target state="new">/admin/sonata/classification/collection/export</target>
+      </trans-unit>
+      <trans-unit id="d7a6c036fbc67f81af95f7730b0978e0c74ca0f1" resname="admin_sonata_classification_collection_list">
+        <source>/admin/sonata/classification/collection/list</source>
+        <target state="new">/admin/sonata/classification/collection/list</target>
+      </trans-unit>
+      <trans-unit id="e0fb9934770afdb841e19a4a7e3cea8ce4e48b56" resname="admin_sonata_classification_collection_show">
+        <source>/admin/sonata/classification/collection/{id}/show</source>
+        <target state="new">/admin/sonata/classification/collection/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="adbd3dc38e89f3a1352c52420d988920953cb606" resname="admin_sonata_classification_context_acl">
+        <source>/admin/sonata/classification/context/{id}/acl</source>
+        <target state="new">/admin/sonata/classification/context/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="21301e1bbbc0ff7076ca8c01c24b6b630076f8e0" resname="admin_sonata_classification_context_batch">
+        <source>/admin/sonata/classification/context/batch</source>
+        <target state="new">/admin/sonata/classification/context/batch</target>
+      </trans-unit>
+      <trans-unit id="11daa085c3318d869ed29e64b0de7f480001a247" resname="admin_sonata_classification_context_create">
+        <source>/admin/sonata/classification/context/create</source>
+        <target state="new">/admin/sonata/classification/context/create</target>
+      </trans-unit>
+      <trans-unit id="e97d20e1a6b595c0ae13581c222051e13d33d193" resname="admin_sonata_classification_context_delete">
+        <source>/admin/sonata/classification/context/{id}/delete</source>
+        <target state="new">/admin/sonata/classification/context/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="067610db013d750fc69f097ade6d5fb6ab641519" resname="admin_sonata_classification_context_edit">
+        <source>/admin/sonata/classification/context/{id}/edit</source>
+        <target state="new">/admin/sonata/classification/context/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="1d37c7a44546be63d4de769c637968b999bfe6d6" resname="admin_sonata_classification_context_export">
+        <source>/admin/sonata/classification/context/export</source>
+        <target state="new">/admin/sonata/classification/context/export</target>
+      </trans-unit>
+      <trans-unit id="bff94e94c9292d04c42245b01aa8655d5ba8cec0" resname="admin_sonata_classification_context_list">
+        <source>/admin/sonata/classification/context/list</source>
+        <target state="new">/admin/sonata/classification/context/list</target>
+      </trans-unit>
+      <trans-unit id="5a176332b939d9808b94fe503dca3e246244b10b" resname="admin_sonata_classification_context_show">
+        <source>/admin/sonata/classification/context/{id}/show</source>
+        <target state="new">/admin/sonata/classification/context/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="7db8cbd6ea6b05ac43622852053af9aa8682b88a" resname="admin_sonata_classification_tag_acl">
+        <source>/admin/sonata/classification/tag/{id}/acl</source>
+        <target state="new">/admin/sonata/classification/tag/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="f6b98cc2e6b6ac2371d7fac07a65aa6fe88cd7eb" resname="admin_sonata_classification_tag_batch">
+        <source>/admin/sonata/classification/tag/batch</source>
+        <target state="new">/admin/sonata/classification/tag/batch</target>
+      </trans-unit>
+      <trans-unit id="8e79d98569bc7f9f0d68bc76e5a489709e6ae5c5" resname="admin_sonata_classification_tag_create">
+        <source>/admin/sonata/classification/tag/create</source>
+        <target state="new">/admin/sonata/classification/tag/create</target>
+      </trans-unit>
+      <trans-unit id="7b8f6bdbdb8fb79592b382ffdbbe5eaf7f8aa301" resname="admin_sonata_classification_tag_delete">
+        <source>/admin/sonata/classification/tag/{id}/delete</source>
+        <target state="new">/admin/sonata/classification/tag/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="7e52a41ae4293223bacf7a725238003c1df7c42f" resname="admin_sonata_classification_tag_edit">
+        <source>/admin/sonata/classification/tag/{id}/edit</source>
+        <target state="new">/admin/sonata/classification/tag/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="c899bc9288b93f43bfded15e87d350bdca2ffc4c" resname="admin_sonata_classification_tag_export">
+        <source>/admin/sonata/classification/tag/export</source>
+        <target state="new">/admin/sonata/classification/tag/export</target>
+      </trans-unit>
+      <trans-unit id="8a0d41e291b30f0fda369cfa78f7a92c43bac018" resname="admin_sonata_classification_tag_list">
+        <source>/admin/sonata/classification/tag/list</source>
+        <target state="new">/admin/sonata/classification/tag/list</target>
+      </trans-unit>
+      <trans-unit id="7a8868f666f7ae869ee0d97a46d5ba4d3ff47ec5" resname="admin_sonata_classification_tag_show">
+        <source>/admin/sonata/classification/tag/{id}/show</source>
+        <target state="new">/admin/sonata/classification/tag/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="a8941eae01f1cedd89e3b34b363a334bbd69b9d8" resname="admin_sonata_media_gallery_acl">
+        <source>/admin/sonata/media/gallery/{id}/acl</source>
+        <target state="new">/admin/sonata/media/gallery/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="2bf26c4097210284ea3e91131207d0fc99f4d070" resname="admin_sonata_media_gallery_batch">
+        <source>/admin/sonata/media/gallery/batch</source>
+        <target state="new">/admin/sonata/media/gallery/batch</target>
+      </trans-unit>
+      <trans-unit id="e86ee057ac841402e641e1d32f0044f0274a2304" resname="admin_sonata_media_gallery_create">
+        <source>/admin/sonata/media/gallery/create</source>
+        <target state="new">/admin/sonata/media/gallery/create</target>
+      </trans-unit>
+      <trans-unit id="9c190f1449d9bf613951d40d37fdad668d53ecf6" resname="admin_sonata_media_gallery_delete">
+        <source>/admin/sonata/media/gallery/{id}/delete</source>
+        <target state="new">/admin/sonata/media/gallery/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="cbc49dbb5e342d8d1d038081cae9a85c5cf3f665" resname="admin_sonata_media_gallery_edit">
+        <source>/admin/sonata/media/gallery/{id}/edit</source>
+        <target state="new">/admin/sonata/media/gallery/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="7f1251d5c745f89382be727bebd986d9db6526e7" resname="admin_sonata_media_gallery_export">
+        <source>/admin/sonata/media/gallery/export</source>
+        <target state="new">/admin/sonata/media/gallery/export</target>
+      </trans-unit>
+      <trans-unit id="3f3c1cfa80022b8045dcf28ed2c8ac703bf2f19d" resname="admin_sonata_media_gallery_list">
+        <source>/admin/sonata/media/gallery/list</source>
+        <target state="new">/admin/sonata/media/gallery/list</target>
+      </trans-unit>
+      <trans-unit id="a5b98f12a2ee1072071f47c0830cc9ce618df397" resname="admin_sonata_media_gallery_show">
+        <source>/admin/sonata/media/gallery/{id}/show</source>
+        <target state="new">/admin/sonata/media/gallery/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="ab9e4ef64c3e0b6ba33fcf6c729eefdf553f1d8b" resname="admin_sonata_media_galleryhasmedia_acl">
+        <source>/admin/sonata/media/galleryhasmedia/{id}/acl</source>
+        <target state="new">/admin/sonata/media/galleryhasmedia/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="e8b4ef0e1e3e65f2d8c73c69c7ec4f9e01d98f2f" resname="admin_sonata_media_galleryhasmedia_batch">
+        <source>/admin/sonata/media/galleryhasmedia/batch</source>
+        <target state="new">/admin/sonata/media/galleryhasmedia/batch</target>
+      </trans-unit>
+      <trans-unit id="2500ceebb55d354b26bb21ae241a9fbb2405b7df" resname="admin_sonata_media_galleryhasmedia_create">
+        <source>/admin/sonata/media/galleryhasmedia/create</source>
+        <target state="new">/admin/sonata/media/galleryhasmedia/create</target>
+      </trans-unit>
+      <trans-unit id="f0d1c5979f72c4d58203e9a8164d56f88c5564f1" resname="admin_sonata_media_galleryhasmedia_delete">
+        <source>/admin/sonata/media/galleryhasmedia/{id}/delete</source>
+        <target state="new">/admin/sonata/media/galleryhasmedia/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="dd38dffcd0ee8fd7981b3d4f70f9b131f909c7e0" resname="admin_sonata_media_galleryhasmedia_edit">
+        <source>/admin/sonata/media/galleryhasmedia/{id}/edit</source>
+        <target state="new">/admin/sonata/media/galleryhasmedia/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="232a66789060306cd77bba198b6dd06c9034155c" resname="admin_sonata_media_galleryhasmedia_export">
+        <source>/admin/sonata/media/galleryhasmedia/export</source>
+        <target state="new">/admin/sonata/media/galleryhasmedia/export</target>
+      </trans-unit>
+      <trans-unit id="7447c86f4c1318950b7a95b40e0c5e359ff354b9" resname="admin_sonata_media_galleryhasmedia_list">
+        <source>/admin/sonata/media/galleryhasmedia/list</source>
+        <target state="new">/admin/sonata/media/galleryhasmedia/list</target>
+      </trans-unit>
+      <trans-unit id="ba0b2aedb5a3dd39e96279789e677f7e5ea12c05" resname="admin_sonata_media_galleryhasmedia_show">
+        <source>/admin/sonata/media/galleryhasmedia/{id}/show</source>
+        <target state="new">/admin/sonata/media/galleryhasmedia/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="690de99dc1db59aa36ba8a705cef469175153b21" resname="admin_sonata_media_media_acl">
+        <source>/admin/sonata/media/media/{id}/acl</source>
+        <target state="new">/admin/sonata/media/media/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="9a8fb402a712742bdec392386912ff64d20720b0" resname="admin_sonata_media_media_batch">
+        <source>/admin/sonata/media/media/batch</source>
+        <target state="new">/admin/sonata/media/media/batch</target>
+      </trans-unit>
+      <trans-unit id="e072873e4b7027769a4a0bb4e31e903446a5c6d5" resname="admin_sonata_media_media_ckeditor_browser">
+        <source>/admin/sonata/media/media/ckeditor_browser</source>
+        <target state="new">/admin/sonata/media/media/ckeditor_browser</target>
+      </trans-unit>
+      <trans-unit id="94dbb0adf3a297897c58bbb6a8f28e0085b76b17" resname="admin_sonata_media_media_ckeditor_upload">
+        <source>/admin/sonata/media/media/ckeditor_upload</source>
+        <target state="new">/admin/sonata/media/media/ckeditor_upload</target>
+      </trans-unit>
+      <trans-unit id="80ca06c9860c169e1aec789ae41377139eb20f0c" resname="admin_sonata_media_media_create">
+        <source>/admin/sonata/media/media/create</source>
+        <target state="new">/admin/sonata/media/media/create</target>
+      </trans-unit>
+      <trans-unit id="241f7eba2dcad12404d06d30fa55d23d21e73f43" resname="admin_sonata_media_media_delete">
+        <source>/admin/sonata/media/media/{id}/delete</source>
+        <target state="new">/admin/sonata/media/media/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="d1f2d226ae2961c02f2bbf0999c84f365fcd8169" resname="admin_sonata_media_media_edit">
+        <source>/admin/sonata/media/media/{id}/edit</source>
+        <target state="new">/admin/sonata/media/media/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="598e0e83f74e9047076786f02f107c75102ca99f" resname="admin_sonata_media_media_export">
+        <source>/admin/sonata/media/media/export</source>
+        <target state="new">/admin/sonata/media/media/export</target>
+      </trans-unit>
+      <trans-unit id="c5be053711d31474206f34e8cab2b91016b79107" resname="admin_sonata_media_media_list">
+        <source>/admin/sonata/media/media/list</source>
+        <target state="new">/admin/sonata/media/media/list</target>
+      </trans-unit>
+      <trans-unit id="815388f03a4cebe1367d598958f8eb9d5e26f436" resname="admin_sonata_media_media_show">
+        <source>/admin/sonata/media/media/{id}/show</source>
+        <target state="new">/admin/sonata/media/media/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="e8477680ef254c9b0bd2d8bfa10b18079e7ec77a" resname="admin_sonata_user_group_acl">
+        <source>/admin/sonata/user/group/{id}/acl</source>
+        <target state="new">/admin/sonata/user/group/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="e0951504a6aecf5897fc0c572772a45a70b9b3da" resname="admin_sonata_user_group_batch">
+        <source>/admin/sonata/user/group/batch</source>
+        <target state="new">/admin/sonata/user/group/batch</target>
+      </trans-unit>
+      <trans-unit id="7892aa4c8caaf64a319c7587c08b9777b81c62b0" resname="admin_sonata_user_group_create">
+        <source>/admin/sonata/user/group/create</source>
+        <target state="new">/admin/sonata/user/group/create</target>
+      </trans-unit>
+      <trans-unit id="405b004c5fc17cd4fb935c193eee558b46e59eb6" resname="admin_sonata_user_group_delete">
+        <source>/admin/sonata/user/group/{id}/delete</source>
+        <target state="new">/admin/sonata/user/group/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="3a566a37e561eaf13c7d33d215e36814318517a3" resname="admin_sonata_user_group_edit">
+        <source>/admin/sonata/user/group/{id}/edit</source>
+        <target state="new">/admin/sonata/user/group/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="cb0ba0aff4275e9518515beab253c15f95890c91" resname="admin_sonata_user_group_export">
+        <source>/admin/sonata/user/group/export</source>
+        <target state="new">/admin/sonata/user/group/export</target>
+      </trans-unit>
+      <trans-unit id="dc2f6c7c265556bdc640a3aed39949e25b9193a6" resname="admin_sonata_user_group_list">
+        <source>/admin/sonata/user/group/list</source>
+        <target state="new">/admin/sonata/user/group/list</target>
+      </trans-unit>
+      <trans-unit id="0d77d2040f1459d2a1f7326b7bc88c222c51e8b8" resname="admin_sonata_user_group_show">
+        <source>/admin/sonata/user/group/{id}/show</source>
+        <target state="new">/admin/sonata/user/group/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="c6069fb2d8cfdedf02eb0e2f872cf7c7b84a3361" resname="admin_sonata_user_user_acl">
+        <source>/admin/sonata/user/user/{id}/acl</source>
+        <target state="new">/admin/sonata/user/user/{id}/acl</target>
+      </trans-unit>
+      <trans-unit id="c2dcc2e6f4e34399f41fbdd9d8aa7509878384eb" resname="admin_sonata_user_user_batch">
+        <source>/admin/sonata/user/user/batch</source>
+        <target state="new">/admin/sonata/user/user/batch</target>
+      </trans-unit>
+      <trans-unit id="c47a896a4c9c188c6f16da46f57e3894b697139f" resname="admin_sonata_user_user_create">
+        <source>/admin/sonata/user/user/create</source>
+        <target state="new">/admin/sonata/user/user/create</target>
+      </trans-unit>
+      <trans-unit id="9bfe3030f9cacbc10c5d195a5c88a061447dcfc3" resname="admin_sonata_user_user_delete">
+        <source>/admin/sonata/user/user/{id}/delete</source>
+        <target state="new">/admin/sonata/user/user/{id}/delete</target>
+      </trans-unit>
+      <trans-unit id="eca74e0df32c988335dda99922c6ce9481a871c1" resname="admin_sonata_user_user_edit">
+        <source>/admin/sonata/user/user/{id}/edit</source>
+        <target state="new">/admin/sonata/user/user/{id}/edit</target>
+      </trans-unit>
+      <trans-unit id="f999a0653573166175a601298e56dc1f9c0ead2c" resname="admin_sonata_user_user_export">
+        <source>/admin/sonata/user/user/export</source>
+        <target state="new">/admin/sonata/user/user/export</target>
+      </trans-unit>
+      <trans-unit id="4296a9c63a4717ca5419f7b5e714b92918e3e9ea" resname="admin_sonata_user_user_list">
+        <source>/admin/sonata/user/user/list</source>
+        <target state="new">/admin/sonata/user/user/list</target>
+      </trans-unit>
+      <trans-unit id="1cf3d0406779cb9cced50b5a26a921ad41060f36" resname="admin_sonata_user_user_show">
+        <source>/admin/sonata/user/user/{id}/show</source>
+        <target state="new">/admin/sonata/user/user/{id}/show</target>
+      </trans-unit>
+      <trans-unit id="a140144aecaa71d68517e12910c275748f88b512" resname="fos_js_routing_js">
+        <source>/js/routing.{_format}</source>
+        <target state="new">/js/routing.{_format}</target>
+      </trans-unit>
+      <trans-unit id="3e7a1eb65964daab6c8503cea70e628e3f933ce0" resname="fos_user_change_password">
+        <source>/profile/change-password</source>
+        <target state="new">/profile/change-password</target>
+      </trans-unit>
+      <trans-unit id="89d9f90f552727a161575b47336d827555229023" resname="fos_user_profile_edit">
+        <source>/profile/edit-profile</source>
+        <target state="new">/profile/edit-profile</target>
+      </trans-unit>
+      <trans-unit id="4902df0628432880f048c45009dc1d3df6800747" resname="fos_user_profile_edit_authentication">
+        <source>/profile/edit-authentication</source>
+        <target state="new">/profile/edit-authentication</target>
+      </trans-unit>
+      <trans-unit id="a5c247e0ed2953f5e091126240a417a30fe47c12" resname="fos_user_profile_show">
+        <source>/profile/</source>
+        <target state="new">/profile/</target>
+      </trans-unit>
+      <trans-unit id="a7796b4f4f42c56769357a8303569fc003731e87" resname="fos_user_registration_check_email">
+        <source>/register/check-email</source>
+        <target state="new">/register/check-email</target>
+      </trans-unit>
+      <trans-unit id="22ca20e7a4ac37652a84e45daaf1e68e388eca26" resname="fos_user_registration_confirm">
+        <source>/register/confirm/{token}</source>
+        <target state="new">/register/confirm/{token}</target>
+      </trans-unit>
+      <trans-unit id="43816e069e01819401d9822574dad6c50d82d2d7" resname="fos_user_registration_confirmed">
+        <source>/register/confirmed</source>
+        <target state="new">/register/confirmed</target>
+      </trans-unit>
+      <trans-unit id="693eeded1b8403ebe14463be5de2a9a1ecefbf14" resname="fos_user_registration_register">
+        <source>/register/</source>
+        <target state="new">/register/</target>
+      </trans-unit>
+      <trans-unit id="031c418d91c7b50426906ae4ad5b80194b7e153e" resname="fos_user_resetting_check_email">
+        <source>/resetting/check-email</source>
+        <target state="new">/resetting/check-email</target>
+      </trans-unit>
+      <trans-unit id="57721581c69f4c8163632a830f07d82ee0d719f3" resname="fos_user_resetting_request">
+        <source>/resetting/request</source>
+        <target state="new">/resetting/request</target>
+      </trans-unit>
+      <trans-unit id="3631be6fbf01f3e1ac7ed153ed4648c6469fe0e2" resname="fos_user_resetting_reset">
+        <source>/resetting/reset/{token}</source>
+        <target state="new">/resetting/reset/{token}</target>
+      </trans-unit>
+      <trans-unit id="b68f7e5fae30e8373429c4abe045ae50b8f5f762" resname="fos_user_resetting_send_email">
+        <source>/resetting/send-email</source>
+        <target state="new">/resetting/send-email</target>
+      </trans-unit>
+      <trans-unit id="33d36422431d1bc6e64296b7b849a049c426bfb1" resname="fos_user_security_check">
+        <source>/login_check</source>
+        <target state="new">/login_check</target>
+      </trans-unit>
+      <trans-unit id="e33cc56c226adb625998728b77c6d7989d693f61" resname="fos_user_security_login">
+        <source>/login</source>
+        <target state="new">/login</target>
+      </trans-unit>
+      <trans-unit id="00fb021cee4fd738a7b66a0f5deb9f30bf059593" resname="fos_user_security_logout">
+        <source>/logout</source>
+        <target state="new">/logout</target>
+      </trans-unit>
+      <trans-unit id="c0e83bf994f45f3dc7710166849ec7b0c18c6870" resname="zapoyok_content.page">
+        <source>/cms/{permalink}</source>
+        <target state="new">/cms/{permalink}</target>
+      </trans-unit>
+      <trans-unit id="2928925dd8979fd5566adc77616842391182bd4e" resname="rosport_about">
+        <source>/about</source>
+        <target state="new">/about</target>
+      </trans-unit>
+      <trans-unit id="06f7a47448b1b4035127ab9b1ca759e56c1f58d9" resname="rosport_contact">
+        <source>/contact</source>
+        <target state="new">/contact</target>
+      </trans-unit>
+      <trans-unit id="415f456711eb7d4d2137e24470b5c8cfa5832cd3" resname="rosport_footer_newsletter">
+        <source>/newsletter/footer</source>
+        <target state="new">/newsletter/footer</target>
+      </trans-unit>
+      <trans-unit id="07594c08d20798ebf64873c306cea3b7c56eb669" resname="rosport_gallery_list">
+        <source>/gallery/list</source>
+        <target state="new">/gallery/list</target>
+      </trans-unit>
+      <trans-unit id="3896949c3b24f1839cb38cd67d4bd5e8f8e0efee" resname="rosport_legal">
+        <source>/legal</source>
+        <target state="new">/legal</target>
+      </trans-unit>
+      <trans-unit id="9dc295065ed0b73b07dfce68f95f730bb7d6ad96" resname="rosport_main_gallery">
+        <source>/gallery</source>
+        <target state="new">/gallery</target>
+      </trans-unit>
+      <trans-unit id="897064caa1ad21e9a4660dfa5caffa02ae74501e" resname="rosport_main_homepage">
+        <source>/</source>
+        <target state="new">/</target>
+      </trans-unit>
+      <trans-unit id="fb008be45bb13f0c5f1e4ca2e501442444e214ab" resname="rosport_newsletter">
+        <source>/newsletter</source>
+        <target state="new">/newsletter</target>
+      </trans-unit>
+      <trans-unit id="15918028350304d8c39e7fbf9769475d740a7196" resname="rosport_post_list">
+        <source>/posts</source>
+        <target state="new">/posts</target>
+      </trans-unit>
+      <trans-unit id="373c71526bb7014993254f164962740106bf99de" resname="rosport_post_show">
+        <source>/post/{slug}</source>
+        <target state="new">/post/{slug}</target>
+      </trans-unit>
+      <trans-unit id="31a10712bd73ab6f35ed8eab30d04eb45053138f" resname="rosport_show_gallery">
+        <source>/gallery/{slug}</source>
+        <target state="new">/gallery/{slug}</target>
+      </trans-unit>
+      <trans-unit id="d2a39f2c14bc199f1f0210d020a1961a060f6e33" resname="rosport_the_legend">
+        <source>/the-legend</source>
+        <target state="new">/the-legend</target>
+      </trans-unit>
+      <trans-unit id="04a323eaf4b555f3ca15619a7d4d2b2eeb9527af" resname="sonata_admin_append_form_element">
+        <source>/admin/core/append-form-field-element</source>
+        <target state="new">/admin/core/append-form-field-element</target>
+      </trans-unit>
+      <trans-unit id="9b9a4b5e261b7bc6a7e83332811b28d362aaad89" resname="sonata_admin_dashboard">
+        <source>/admin/dashboard</source>
+        <target state="new">/admin/dashboard</target>
+      </trans-unit>
+      <trans-unit id="9377b6a268d95eb843045165fd433e0b4f7bcee6" resname="sonata_admin_redirect">
+        <source>/admin/</source>
+        <target state="new">/admin/</target>
+      </trans-unit>
+      <trans-unit id="0991ce5c547d6187b372b3799e5694e0471c01e6" resname="sonata_admin_retrieve_autocomplete_items">
+        <source>/admin/core/get-autocomplete-items</source>
+        <target state="new">/admin/core/get-autocomplete-items</target>
+      </trans-unit>
+      <trans-unit id="c1f8c0683377fcc919a326b66c14411d8cbb13b6" resname="sonata_admin_retrieve_form_element">
+        <source>/admin/core/get-form-field-element</source>
+        <target state="new">/admin/core/get-form-field-element</target>
+      </trans-unit>
+      <trans-unit id="c4fe33bf68363259adbe9c28c24bc3abc63bbe18" resname="sonata_admin_search">
+        <source>/admin/search</source>
+        <target state="new">/admin/search</target>
+      </trans-unit>
+      <trans-unit id="bffdaa97ccfe1e7f01f72dcabeb5d4dbbdfa6f9b" resname="sonata_admin_set_object_field_value">
+        <source>/admin/core/set-object-field-value</source>
+        <target state="new">/admin/core/set-object-field-value</target>
+      </trans-unit>
+      <trans-unit id="9d2f0bcd80379e8ce7f6a72aace38539b1ee8b9e" resname="sonata_admin_short_object_information">
+        <source>/admin/core/get-short-object-description.{_format}</source>
+        <target state="new">/admin/core/get-short-object-description.{_format}</target>
+      </trans-unit>
+      <trans-unit id="3970f5aa541c79c3835bd554c87af7a72b7ba1b6" resname="sonata_media_download">
+        <source>/media/download/{id}/{format}</source>
+        <target state="new">/media/download/{id}/{format}</target>
+      </trans-unit>
+      <trans-unit id="9fe6e93f47a16418dd29e36783fe5755f7f19e6e" resname="sonata_media_gallery_index">
+        <source>/media/gallery/</source>
+        <target state="new">/media/gallery/</target>
+      </trans-unit>
+      <trans-unit id="4837ca2cf29f25aa9c2c4da9b3ecf86a2e6e0065" resname="sonata_media_gallery_view">
+        <source>/media/gallery/view/{id}</source>
+        <target state="new">/media/gallery/view/{id}</target>
+      </trans-unit>
+      <trans-unit id="cac7e64296d08830d025ce8fb372a3cb01f3eb94" resname="sonata_media_view">
+        <source>/media/view/{id}/{format}</source>
+        <target state="new">/media/view/{id}/{format}</target>
+      </trans-unit>
+      <trans-unit id="a345d8c81d4018840d979412b9fe321e8fa959f2" resname="sonata_user_admin_security_check">
+        <source>/admin/login_check</source>
+        <target state="new">/admin/login_check</target>
+      </trans-unit>
+      <trans-unit id="8982d3b9362c5d9a5a56c2c1223fd06bf8d55c61" resname="sonata_user_admin_security_login">
+        <source>/admin/login</source>
+        <target state="new">/admin/login</target>
+      </trans-unit>
+      <trans-unit id="fb27bea8cdd3d9821e6deced079b76fbc1545d37" resname="sonata_user_admin_security_logout">
+        <source>/admin/logout</source>
+        <target state="new">/admin/logout</target>
+      </trans-unit>
+      <trans-unit id="d811f219ce537f94e7fa69f722242d3c9cdf5ae4" resname="sonata_user_change_password">
+        <source>/profile/change-password</source>
+        <target state="new">/profile/change-password</target>
+      </trans-unit>
+      <trans-unit id="dcca96d13aa0d4970f4d037665a409a607734840" resname="sonata_user_profile_edit">
+        <source>/profile/edit-profile</source>
+        <target state="new">/profile/edit-profile</target>
+      </trans-unit>
+      <trans-unit id="7a45809f45fb97c0099f36775c6c35398c9f83e6" resname="sonata_user_profile_edit_authentication">
+        <source>/profile/edit-authentication</source>
+        <target state="new">/profile/edit-authentication</target>
+      </trans-unit>
+      <trans-unit id="1e50112ed7b19abab8ccf2ce0fde046a059b464b" resname="sonata_user_profile_show">
+        <source>/profile/</source>
+        <target state="new">/profile/</target>
+      </trans-unit>
+      <trans-unit id="580abd0520595a185512ef245920d345fe45052e" resname="sonata_user_registration_check_email">
+        <source>/register/check-email</source>
+        <target state="new">/register/check-email</target>
+      </trans-unit>
+      <trans-unit id="9714cad77987302e8eb85444c6dd3b727f9d367e" resname="sonata_user_registration_confirm">
+        <source>/register/confirm/{token}</source>
+        <target state="new">/register/confirm/{token}</target>
+      </trans-unit>
+      <trans-unit id="7d2f9f06acb28d257ed3e89fadc4f856c6b7fb79" resname="sonata_user_registration_confirmed">
+        <source>/register/confirmed</source>
+        <target state="new">/register/confirmed</target>
+      </trans-unit>
+      <trans-unit id="75e83c17808ee5f0a69ac07ecd3cb4dc37e8962b" resname="sonata_user_registration_register">
+        <source>/register/</source>
+        <target state="new">/register/</target>
+      </trans-unit>
+      <trans-unit id="c8f122155ca183a7ca5116a95982df3572061543" resname="sonata_user_resetting_check_email">
+        <source>/resetting/check-email</source>
+        <target state="new">/resetting/check-email</target>
+      </trans-unit>
+      <trans-unit id="a217026c8b3c736e227ccca038c6efb15abb0883" resname="sonata_user_resetting_request">
+        <source>/resetting/request</source>
+        <target state="new">/resetting/request</target>
+      </trans-unit>
+      <trans-unit id="14453187f555ebd900c3d16cb7456bcc9af090aa" resname="sonata_user_resetting_reset">
+        <source>/resetting/reset/{token}</source>
+        <target state="new">/resetting/reset/{token}</target>
+      </trans-unit>
+      <trans-unit id="f269ca2422f5db012ed32157be079d1f23d8570f" resname="sonata_user_resetting_send_email">
+        <source>/resetting/send-email</source>
+        <target state="new">/resetting/send-email</target>
+      </trans-unit>
+      <trans-unit id="d5d4ad53ba3f522c0f7a4130d6d463b893de864f" resname="sonata_user_security_check">
+        <source>/login_check</source>
+        <target state="new">/login_check</target>
+      </trans-unit>
+      <trans-unit id="ddc742eace260226a64e94448e24ad926e5b592e" resname="sonata_user_security_login">
+        <source>/login</source>
+        <target state="new">/login</target>
+      </trans-unit>
+      <trans-unit id="33fb28aa29d4c160d12760bdc5ebd712239d21f2" resname="sonata_user_security_logout">
+        <source>/logout</source>
+        <target state="new">/logout</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

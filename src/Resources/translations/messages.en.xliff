@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2014-09-18T05:37:09Z" source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="79ba5e1b3f99abfd54ef8d839ba12bd2ac4d79cb" resname="After">
+        <jms:reference-file line="31">Form/Type/ReorderType.php</jms:reference-file>
+        <source>After</source>
+        <target state="new">After</target>
+      </trans-unit>
+      <trans-unit id="74f39697ac328c6325ce068b6aaca626abc0bf63" resname="Before">
+        <jms:reference-file line="31">Form/Type/ReorderType.php</jms:reference-file>
+        <source>Before</source>
+        <target state="new">Before</target>
+      </trans-unit>
+      <trans-unit id="abc5e5cbc16a267ece1bddfa26acc3c20ba46bf8" resname="Choose a parent">
+        <jms:reference-file line="90">MenuBundle/Admin/MenuNodeAdmin.php</jms:reference-file>
+        <source>Choose a parent</source>
+        <target state="new">Choose a parent</target>
+      </trans-unit>
+      <trans-unit id="c0aee159fafdd144a24b5fd9933e933c70e404ef" resname="Choose a position">
+        <jms:reference-file line="32">Form/Type/ReorderType.php</jms:reference-file>
+        <source>Choose a position</source>
+        <target state="new">Choose a position</target>
+      </trans-unit>
+      <trans-unit id="c7e62b60378e24a05c17690e33fc1d8d29dbdb1b" resname="Choose a sibling">
+        <jms:reference-file line="39">Form/Type/ReorderType.php</jms:reference-file>
+        <source>Choose a sibling</source>
+        <target state="new">Choose a sibling</target>
+      </trans-unit>
+      <trans-unit id="e54c3af06d8791f123dde0212ececdaafdac4a75" resname="form.linkType.empty_value">
+        <jms:reference-file line="75">MenuBundle/Admin/MenuNodeAdmin.php</jms:reference-file>
+        <source>form.linkType.empty_value</source>
+        <target state="new">form.linkType.empty_value</target>
+      </trans-unit>
+      <trans-unit id="0ea339b9b5902c79d3e934adb2a3230c042f5b1f" resname="zapoyok_menu.menu.menu">
+        <jms:reference-file line="49">MenuBundle/Admin/MenuAdmin.php</jms:reference-file>
+        <source>zapoyok_menu.menu.menu</source>
+        <target state="new">zapoyok_menu.menu.menu</target>
+      </trans-unit>
+      <trans-unit id="12db8a4c2fe4f885c48060b2d1f2da5b828e45d8" resname="zapoyok_menu.menu.nodes">
+        <jms:reference-file line="54">MenuBundle/Admin/MenuAdmin.php</jms:reference-file>
+        <source>zapoyok_menu.menu.nodes</source>
+        <target state="new">zapoyok_menu.menu.nodes</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

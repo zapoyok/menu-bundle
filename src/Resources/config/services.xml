@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+
+<container xmlns="http://symfony.com/schema/dic/services"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
+
+    <services>
+        <service id="zapoyok_menu.menu.manager" class="Zapoyok\MenuBundle\Entity\MenuManager">
+            <argument type="service" id="doctrine.orm.entity_manager" />
+        </service>
+            
+        <service id="zapoyok_menu.menunode.manager" class="Zapoyok\MenuBundle\Entity\MenuNodeManager">
+            <argument type="service" id="doctrine.orm.entity_manager" />
+        </service>
+            
+        <service id="zapoyok_menu.provider" class="Zapoyok\MenuBundle\Provider\MenuProvider">
+            <argument type="service" id="zapoyok_menu.factory" />
+            <argument type="service" id="zapoyok_menu.menu.manager" />
+            <tag name="knp_menu.provider" />
+        </service>
+        
+        <service id="zapoyok_menu.factory" class="Zapoyok\MenuBundle\ContentAwareFactory">
+            <argument type="service" id="router"/>
+            <argument type="service" id="router"/>
+            <argument type="service" id="event_dispatcher"/>
+            <argument type="service" id="logger"/>
+            <call method="setAllowEmptyItems">
+                <argument>%zapoyok_menu.allow_empty_items%</argument>
+            </call>
+        </service>
+        
+        <service id="zapoyok_menu.form.type.reorder" class="Zapoyok\MenuBundle\Form\Type\ReorderType">
+            <argument type="service" id="zapoyok_menu.menunode.manager" />
+            <tag name="form.type" alias="zapoyok_menu_reorder" />
+        </service>  
+
+    </services>
+
+</container>

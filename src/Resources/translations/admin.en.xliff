@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2014-09-18T05:43:36Z" source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="ef210894f5a44d9baa8cc765807fec26d05dbbc6" resname="admin.reorder.failure.notsibling">
+        <jms:reference-file line="182">MenuBundle/Admin/MenuNodeAdmin.php</jms:reference-file>
+        <source>admin.reorder.failure.notsibling</source>
+        <target>The two menu nodes are not sibling !</target>
+      </trans-unit>
+      <trans-unit id="c1b121efc938a71ec61783a702a70f4d8a1bfa5d" resname="admin.reorder.success.sibling %position% &quot;%nodename%&quot;">
+        <jms:reference-file line="180">MenuBundle/Admin/MenuNodeAdmin.php</jms:reference-file>
+        <source>admin.reorder.success.sibling %position% "%nodename%"</source>
+        <target>The menu item was placed just %position% "%nodename%"</target>
+      </trans-unit>
+      <trans-unit id="2bb5663aa738f3d68d15251ceefe76dca775ca39" resname="breadcrumb.link_menu_list">
+        <jms:reference-file line="7">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>breadcrumb.link_menu_list</source>
+        <target>Menu List</target>
+      </trans-unit>
+      <trans-unit id="212643474ae1c5f58cbdec75fa7bf8fe78e9f0dc" resname="breadcrumb.link_menu_node_list">
+        <jms:reference-file line="6">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>breadcrumb.link_menu_node_list</source>
+        <target>Menu Node list</target>
+      </trans-unit>
+      <trans-unit id="aaf619b302a7780894bfd6f9304a0c5e90c0d706" resname="form.label_attributes">
+        <jms:reference-file line="30">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.label_attributes</source>
+        <target>Attributes</target>
+      </trans-unit>
+      <trans-unit id="86ab3311078830671c5064a9b8ecf5c1c092b711" resname="form.label_children_attributes">
+        <jms:reference-file line="31">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.label_children_attributes</source>
+        <target>Label attributes (children)</target>
+      </trans-unit>
+      <trans-unit id="f2107e6dd39a6428678d8f95f3e40e710d34210e" resname="form.label_label">
+        <jms:reference-file line="11">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.label_label</source>
+        <target>Label</target>
+      </trans-unit>
+      <trans-unit id="0a957152255c156f2afdf1f28f783a840b0e34e5" resname="form.label_label_attributes">
+        <jms:reference-file line="33">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.label_label_attributes</source>
+        <target>Label attributes</target>
+      </trans-unit>
+      <trans-unit id="268eedc8c245faa99a62d357f21f3ec2240f5632" resname="form.label_link_attributes">
+        <jms:reference-file line="32">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.label_link_attributes</source>
+        <target>Link attributes</target>
+      </trans-unit>
+      <trans-unit id="e6ebe7912502a4dba8a1f87e24ebdcebb1b79157" resname="form.label_link_type">
+        <jms:reference-file line="12">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.label_link_type</source>
+        <target>Link type</target>
+      </trans-unit>
+      <trans-unit id="1c4f172cbcf4a6bbca2b5a2127b05d144de24047" resname="form.label_reorder">
+        <jms:reference-file line="15">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.label_reorder</source>
+        <target>Reorder item</target>
+      </trans-unit>
+      <trans-unit id="a1a41e76ff1b9f3cdec8e286f04e78789d66e40f" resname="form.label_route">
+        <jms:reference-file line="13">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.label_route</source>
+        <target>Route</target>
+      </trans-unit>
+      <trans-unit id="c34f55e1c4b88c794d681f987e07dcbcb632814b" resname="form.label_route_parameters">
+        <jms:reference-file line="17">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.label_route_parameters</source>
+        <target>Route parameters</target>
+      </trans-unit>
+      <trans-unit id="e54c3af06d8791f123dde0212ececdaafdac4a75" resname="form.linkType.empty_value">
+        <jms:reference-file line="38">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.linkType.empty_value</source>
+        <target>Choose a type</target>
+      </trans-unit>
+      <trans-unit id="bbfc0f3db69f16caf51d883c89113098f65ebb59" resname="form.menunode.customization">
+        <jms:reference-file line="29">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.menunode.customization</source>
+        <target>Customization</target>
+      </trans-unit>
+      <trans-unit id="cd99070294c83fa38268cc6a86de5e2116bece60" resname="form.menunode.general">
+        <jms:reference-file line="10">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.menunode.general</source>
+        <target>General</target>
+      </trans-unit>
+      <trans-unit id="945ac8365ac4974f89a5e0516622fa640ef3616b" resname="form.menunode.label">
+        <jms:reference-file line="48">MenuBundle/Admin/AbstractMenuNodeAdmin.php</jms:reference-file>
+        <jms:reference-file line="58">MenuBundle/Admin/MenuNodeAdmin.php</jms:reference-file>
+        <source>form.menunode.label</source>
+        <target>Label</target>
+      </trans-unit>
+      <trans-unit id="3c00ac75ddf33b13760bcd5a8fca9f6d7f0a2bd1" resname="form.menunode.name">
+        <jms:reference-file line="42">MenuBundle/Admin/AbstractMenuNodeAdmin.php</jms:reference-file>
+        <jms:reference-file line="52">MenuBundle/Admin/MenuNodeAdmin.php</jms:reference-file>
+        <source>form.menunode.name</source>
+        <target>System name</target>
+      </trans-unit>
+      <trans-unit id="16520123f8329b5e1c2a7a962a2a01e3418b4d39" resname="form.menunode.parameters">
+        <jms:reference-file line="16">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.menunode.parameters</source>
+        <target>Parameters</target>
+      </trans-unit>
+      <trans-unit id="8999ecd9cca8702101c7b0eb12f7abbf8be678e0" resname="form.menunode.position">
+        <jms:reference-file line="14">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.menunode.position</source>
+        <target>Position</target>
+      </trans-unit>
+      <trans-unit id="ee170d3c8a0905e65358bbfb5e07a015ee4d2602" resname="form.menunode.route">
+        <jms:reference-file line="37">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <jms:reference-file line="69">MenuBundle/Admin/MenuNodeAdmin.php</jms:reference-file>
+        <source>form.menunode.route</source>
+        <target>Route</target>
+      </trans-unit>
+      <trans-unit id="e14bf7f1a70adb0e8fdeab29132d67c60c4d086a" resname="form.menunode.rules">
+        <jms:reference-file line="28">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.menunode.rules</source>
+        <target>Rules</target>
+      </trans-unit>
+      <trans-unit id="83070dea38c8aef55d09e0cc5f4c29c8a92ff9fa" resname="form.menunode.tab.Customization">
+        <jms:reference-file line="26">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.menunode.tab.Customization</source>
+        <target>Customization</target>
+      </trans-unit>
+      <trans-unit id="b56c7b915d8d15f31e67dcfb292071b2b36751be" resname="form.menunode.tab.General">
+        <jms:reference-file line="24">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.menunode.tab.General</source>
+        <target>General</target>
+      </trans-unit>
+      <trans-unit id="33eca26f74f0746b08f450d901ab68a020adf1c1" resname="form.menunode.tab.Rules">
+        <jms:reference-file line="25">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>form.menunode.tab.Rules</source>
+        <target>Rules</target>
+      </trans-unit>
+      <trans-unit id="893a1bce078a7ba27203aa647f91564672bfc0e1" resname="form.menunode.uri">
+        <jms:reference-file line="36">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <jms:reference-file line="67">MenuBundle/Admin/MenuNodeAdmin.php</jms:reference-file>
+        <source>form.menunode.uri</source>
+        <target>URL</target>
+      </trans-unit>
+      <trans-unit id="6db4424ceeeec3d1df45f3e8f26572ac2c5463f6" resname="help.menunode.label">
+        <jms:reference-file line="50">MenuBundle/Admin/AbstractMenuNodeAdmin.php</jms:reference-file>
+        <jms:reference-file line="60">MenuBundle/Admin/MenuNodeAdmin.php</jms:reference-file>
+        <source>help.menunode.label</source>
+        <target><![CDATA[&nbsp;]]></target>
+      </trans-unit>
+      <trans-unit id="f4fc5ec895a777adf5a7cc10520d9f641e0bd781" resname="help.menunode.name">
+        <jms:reference-file line="44">MenuBundle/Admin/AbstractMenuNodeAdmin.php</jms:reference-file>
+        <jms:reference-file line="54">MenuBundle/Admin/MenuNodeAdmin.php</jms:reference-file>
+        <source>help.menunode.name</source>
+        <target>System name : use only a-z, 0-9 and "-" or "_".</target>
+      </trans-unit>
+      <trans-unit id="4caef85e539dd64671369ab21d40edbc9f9884ab" resname="list.label_level">
+        <jms:reference-file line="2">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>list.label_level</source>
+        <target>Level</target>
+      </trans-unit>
+      <trans-unit id="36ca4c6b0d8c554173eac7e626bc00dd107310ac" resname="list.label_name_with_level">
+        <jms:reference-file line="1">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>list.label_name_with_level</source>
+        <target>Name</target>
+      </trans-unit>
+      <trans-unit id="aab1a001c268e575a2ac55f558c9c6e468463da2" resname="list.label_route">
+        <jms:reference-file line="4">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>list.label_route</source>
+        <target>Route</target>
+      </trans-unit>
+      <trans-unit id="004f97f3a0c24273cfce3fec4fe9832f6b5aaf49" resname="list.label_uri">
+        <jms:reference-file line="3">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>list.label_uri</source>
+        <target>Uri</target>
+      </trans-unit>
+      <trans-unit id="1a2ecd239f2a564178a761dc8dd07f392067abbb" resname="zapoyok_menu.admin.menu.label">
+        <jms:reference-file line="19">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>zapoyok_menu.admin.menu.label</source>
+        <target>Menu</target>
+      </trans-unit>
+      <trans-unit id="8db71c36761153cc156985b0276c6924ccaf5297" resname="zapoyok_menu.admin.menunode.label">
+        <jms:reference-file line="20">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>zapoyok_menu.admin.menunode.label</source>
+        <target>Menu items</target>
+      </trans-unit>
+      <trans-unit id="0ea339b9b5902c79d3e934adb2a3230c042f5b1f" resname="zapoyok_menu.menu.menu">
+        <jms:reference-file line="21">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>zapoyok_menu.menu.menu</source>
+        <target>Menu</target>
+      </trans-unit>
+      <trans-unit id="12db8a4c2fe4f885c48060b2d1f2da5b828e45d8" resname="zapoyok_menu.menu.nodes">
+        <jms:reference-file line="22">Resources/views/fakei18n.html.twig</jms:reference-file>
+        <source>zapoyok_menu.menu.nodes</source>
+        <target>Items</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

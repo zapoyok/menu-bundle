@@ -1,0 +1,25 @@
+{
+    "name": "zapoyok/menu-bundle",
+    "description": "Content",
+    "type": "symfony-bundle",
+    "authors": [
+        {
+            "name": "FIX Jérôme",
+            "email": "jerome.fix@zapoyok.info"
+        }
+    ],
+    "keywords": [],
+    "license": [
+        "Apache-2.0"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Zapoyok\\MenuBundle\\": "src"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}

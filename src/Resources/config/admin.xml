@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+
+<container xmlns="http://symfony.com/schema/dic/services"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
+
+    <services>
+
+        <service id="zapoyok_menu.admin.menu"
+            class="Zapoyok\MenuBundle\Admin\MenuAdmin">
+            <tag name="sonata.admin" manager_type="orm"
+                group="zapoyok_content.admin.content.label"
+                label="zapoyok_menu.admin.menu.label"
+                label_catalogue="admin"
+                label_translator_strategy="sonata.admin.label.strategy.underscore" />
+            <argument />
+            <argument>Zapoyok\MenuBundle\Entity\Menu</argument>
+            <argument />
+            <call method="setTranslationDomain">
+                <argument>admin</argument>
+            </call>
+            
+            <call method="addChild">
+                <argument type="service" id="zapoyok_menu.admin.menunode" />
+            </call>
+            
+        </service>
+
+        <service id="zapoyok_menu.admin.menunode"
+            class="Zapoyok\MenuBundle\Admin\MenuNodeAdmin">
+            <tag name="sonata.admin" manager_type="orm"
+                group="zapoyok_content.admin.content.label"
+                label="zapoyok_menu.admin.menunode.label"
+                label_catalogue="admin"
+                label_translator_strategy="sonata.admin.label.strategy.underscore" />
+            <argument />
+            <argument>Zapoyok\MenuBundle\Entity\MenuNode</argument>
+            <argument />
+            <argument type="service"  id="zapoyok_menu.menunode.manager" />
+            <call method="setTranslationDomain">
+                <argument>admin</argument>
+            </call>
+        </service>
+
+    </services>
+
+</container>
